@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Foto de Fondo para Linkedin Fotógrafa Simple Azul](https://github.com/user-attachments/assets/aaf09662-2ec5-4a80-a59b-add5c6bcb3ab)
+<div id="header" align="center">
+  <img decoding="async" src="[https://github.com/noelianav91/noelianav91/blob/main/Banner%20Github.png](https://github.com/EduardoAndres97/EduardoAndres97/edit/main/README.md)" width="800"/>
+</div>
