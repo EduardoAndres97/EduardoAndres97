@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   <img decoding="async" src="[https://github.com/noelianav91/noelianav91/blob/main/Banner%20Github.png](https://github.com/EduardoAndres97/EduardoAndres97/edit/main/README.md)" width="800"/>
 </div>
 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-andr%C3%A9s-silva-labra/) [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrea.mzg21@gmail.com) [![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/eduandressilva)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-andr%C3%A9s-silva-labra/) [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eas.labra97@gmail.com) 
 
 </div>
 
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 ### :man_technologist: Sobre mí :
 
-Analista de datos con formacion solida en análisis y visualizacion de datos. Guiado por mi pasión por la tecnologia y los datos recientemente concluí un bootcamp intensivo donde pude desenvolverme y darles solución a problemas del mundo real. <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+Analista de datos con formacion solida en análisis y visualizacion de datos. Guiado por mi pasión por la tecnologia y los datos me gradue en un bootcamp intensivo de la academia TripleTen, donde pude desenvolverme y darles solución a problemas del mundo real. <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 * :seedling: Sigo estudiando :blue_book: y practicando :computer: lenguaje SQL, Python y Tableau, sin dejar de lado las increíbles herramientas de Microsoft.
 
